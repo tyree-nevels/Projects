@@ -1,0 +1,10 @@
+C:\Users\nevel\source\repos\BLueLime\BLueLime\bin\Debug\BLueLime.exe.config
+C:\Users\nevel\source\repos\BLueLime\BLueLime\bin\Debug\BLueLime.exe
+C:\Users\nevel\source\repos\BLueLime\BLueLime\bin\Debug\BLueLime.pdb
+C:\Users\nevel\source\repos\BLueLime\BLueLime\obj\Debug\BLueLime.csproj.AssemblyReference.cache
+C:\Users\nevel\source\repos\BLueLime\BLueLime\obj\Debug\BLueLime.frmMain.resources
+C:\Users\nevel\source\repos\BLueLime\BLueLime\obj\Debug\BLueLime.Properties.Resources.resources
+C:\Users\nevel\source\repos\BLueLime\BLueLime\obj\Debug\BLueLime.csproj.GenerateResource.cache
+C:\Users\nevel\source\repos\BLueLime\BLueLime\obj\Debug\BLueLime.csproj.CoreCompileInputs.cache
+C:\Users\nevel\source\repos\BLueLime\BLueLime\obj\Debug\BLueLime.exe
+C:\Users\nevel\source\repos\BLueLime\BLueLime\obj\Debug\BLueLime.pdb
