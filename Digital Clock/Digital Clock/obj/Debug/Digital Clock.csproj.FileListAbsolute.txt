@@ -1,0 +1,10 @@
+C:\Users\nevel\source\repos\Digital Clock\Digital Clock\bin\Debug\Digital Clock.exe.config
+C:\Users\nevel\source\repos\Digital Clock\Digital Clock\bin\Debug\Digital Clock.exe
+C:\Users\nevel\source\repos\Digital Clock\Digital Clock\bin\Debug\Digital Clock.pdb
+C:\Users\nevel\source\repos\Digital Clock\Digital Clock\obj\Debug\Digital Clock.csproj.AssemblyReference.cache
+C:\Users\nevel\source\repos\Digital Clock\Digital Clock\obj\Debug\Digital_Clock.Clock.resources
+C:\Users\nevel\source\repos\Digital Clock\Digital Clock\obj\Debug\Digital_Clock.Properties.Resources.resources
+C:\Users\nevel\source\repos\Digital Clock\Digital Clock\obj\Debug\Digital Clock.csproj.GenerateResource.cache
+C:\Users\nevel\source\repos\Digital Clock\Digital Clock\obj\Debug\Digital Clock.csproj.CoreCompileInputs.cache
+C:\Users\nevel\source\repos\Digital Clock\Digital Clock\obj\Debug\Digital Clock.exe
+C:\Users\nevel\source\repos\Digital Clock\Digital Clock\obj\Debug\Digital Clock.pdb
